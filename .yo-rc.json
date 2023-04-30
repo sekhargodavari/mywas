@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "godavari",
+    "newDir": true,
+    "projectNamespace": "anubhav.app",
+    "projectNamespaceModule": "anubhav/app"
+  }
+}
